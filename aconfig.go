@@ -1,7 +1,7 @@
 package aconfig
 
 import (
-	"flag"
+	flag "github.com/spf13/pflag"
 	"fmt"
 	"os"
 	"path/filepath"
